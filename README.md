@@ -1,4 +1,4 @@
-# Email
+# Email Validation using python
 
 email = input("Enter your email: ") #g@g.in
 k = 0
